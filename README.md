@@ -33,5 +33,5 @@ A web application for discovering and exploring movies with pastel pink light th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/movie-explorer-1.git
-   cd movie-explorer-1
+   git clone https://github.com/yourusername/movie-explorer.git
+   cd movie-explorer
